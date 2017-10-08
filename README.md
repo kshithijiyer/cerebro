@@ -1,4 +1,4 @@
-# cerebro
+# Cerebro
 Cerebro is a command line file manager. 
 **This was the first script I wrote in my life apart from academic assignments.**
 
@@ -24,4 +24,4 @@ sh cerebro.sh
 [Kshithij Iyer](https://www.linkedin.com/in/kshithij-iyer/)
 
 ## Licence 
-RasterShare is built and distributed under Apache License 2.0.
+Cerebro is built and distributed under Apache License 2.0.
