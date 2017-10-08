@@ -13,7 +13,7 @@ cd cerebro
 ```
 3. To use just call the scirpt using the command:
 ```
-sh cerebro
+sh cerebro.sh
 ```
 4. The passcode to use the script is ```9999```.
 
